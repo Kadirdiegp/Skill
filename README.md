@@ -1,5 +1,6 @@
 # SkillSwap - Skill Exchange Platform
 ![Simulator Screenshot - iPhone 16 - 2024-11-08 at 02 51 34](https://github.com/user-attachments/assets/8bb2f160-661d-494e-9586-15ceb3fdbdf4)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-08 at 19 22 38](https://github.com/user-attachments/assets/9518a1b1-ba67-487f-8140-05e37537089a)
 
 
 SkillSwap is a Flutter-based mobile application that enables users to exchange skills and knowledge with others. Users can match with people who have complementary skill interests, schedule learning sessions, and track their progress.

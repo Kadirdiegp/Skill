@@ -1,0 +1,25 @@
+name: skill_swap
+description: A platform for exchanging skills and learning from others
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  google_fonts: ^6.1.0
+  flutter_secure_storage: ^9.0.0
+  cupertino_icons: ^1.0.2
+  intl: ^0.19.0
+  path_provider: ^2.1.2
+  path: ^1.8.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,5 @@
+connectorId: default
+generate:
+  swiftSdk:
+    outputDir: ../../ios/dataconnect-generated/swift
+    package: DefaultConnector
